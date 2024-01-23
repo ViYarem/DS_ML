@@ -1,2 +1,2 @@
 # DS_ML
-Data Science and Machine Learning
+Study: Data Science and Machine Learning
